@@ -10,7 +10,7 @@
 
 国土数値情報ダウンロードサービス
 
-(http://nlftp.mlit.go.jp/ksj/index.html)[http://nlftp.mlit.go.jp/ksj/index.html]
+[http://nlftp.mlit.go.jp/ksj/index.html](http://nlftp.mlit.go.jp/ksj/index.html)
 
 ## 総務省 全国地方公共団体コード
 
@@ -19,7 +19,7 @@
 総務省のWebページで得られるデジタルデータをRで扱うためのスクリプトも
 公開しています。
 
-(http://www.soumu.go.jp/denshijiti/code.html)[http://www.soumu.go.jp/denshijiti/code.html]
+[http://www.soumu.go.jp/denshijiti/code.html](http://www.soumu.go.jp/denshijiti/code.html)
 
 ## ファイルの準備
 
